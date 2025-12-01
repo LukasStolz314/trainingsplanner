@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797651044730",
+    "project_id": "trainingsplanner-bc9ff",
+    "storage_bucket": "trainingsplanner-bc9ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797651044730:android:fb326fc096bfa08c41eec3",
+        "android_client_info": {
+          "package_name": "com.example.trainingplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PuMiIj0gMIAqbZ42876KWtVZRCRcPPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
